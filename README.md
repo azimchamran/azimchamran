@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Azim Chamran. I am Wordpress engineer, web developer and web designer. 
+I am Azim Chamran. I am Wordpress engineer amd web developer. 
 
 - 🔭 I’m currently working on FarokhiGroup as a web developer.
 - 🌱 I’m currently learning SEO.
